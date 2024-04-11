@@ -46,4 +46,5 @@ Contributions to the project are welcome! If you find any bugs or have suggestio
 
 **License**
 The news website is open-source software released under the MIT License. Feel free to use, modify, and distribute the code as needed.
-![Screenshot (333)](https://github.com/Avinanda2370/Myportfolio-Django/assets/102664151/87f408cf-64d6-4248-92a1-2d034d1a4183)
+![Screenshot (333)](https://github.com/Avinanda2370/Myportfolio-Django/assets/102664151/5dcb36cc-58e6-47d8-8ce5-906e5d0c67b6)
+
